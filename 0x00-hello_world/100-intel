@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	printf("AlX software engineering");
+	printf("Holberton School");
 	return (0);
 }
